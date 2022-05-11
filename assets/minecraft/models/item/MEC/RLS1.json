@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"6": "block/black_concrete",
+		"21": "MEC/MEC Direct (6)",
+		"22": "MEC/MEC Direct (7)"
+	},
+	"elements": [
+		{
+			"from": [4, -0.2, 7.6],
+			"to": [12, 2.4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 1]},
+			"faces": {
+				"north": {"uv": [0.66667, 3.70833, 15.04167, 13.1], "texture": "#21"},
+				"east": {"uv": [0, 0, 1.8, 3.6], "texture": "#6"},
+				"south": {"uv": [0.91667, 3.91667, 14.95833, 12.725], "texture": "#22"},
+				"west": {"uv": [0, 0, 1.8, 3.6], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 1.8], "texture": "#6"},
+				"down": {"uv": [0, 0, 16, 1.8], "texture": "#6"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2, 2.2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Coupler2",
+			"origin": [0, 17, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "group",
+			"origin": [0, 0, -15],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "group",
+			"origin": [0, 0, -0.3],
+			"color": 0,
+			"children": []
+		},
+		0
+	]
+}

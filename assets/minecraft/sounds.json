@@ -1,0 +1,271 @@
+{
+	"bangkokmrt.happyblueline": {
+		"sounds": [
+			"bangkokmrt/happyblueline"
+		]
+	},
+	"bangkokmrt.happybluelinehook": {
+		"sounds": [
+			"bangkokmrt/happybluelinehook"
+		]
+	},
+	"customminetopia_vehicles.horn": {
+		"sounds": [
+			"customminetopia_vehicles/horn1",
+			"customminetopia_vehicles/horn10",
+			"customminetopia_vehicles/horn11",
+			"customminetopia_vehicles/horn12",
+			"customminetopia_vehicles/horn13",
+			"customminetopia_vehicles/horn14",
+			"customminetopia_vehicles/horn15",
+			"customminetopia_vehicles/horn16",
+			"customminetopia_vehicles/horn17",
+			"customminetopia_vehicles/horn18",
+			"customminetopia_vehicles/horn19",
+			"customminetopia_vehicles/horn2",
+			"customminetopia_vehicles/horn20",
+			"customminetopia_vehicles/horn3",
+			"customminetopia_vehicles/horn4",
+			"customminetopia_vehicles/horn5",
+			"customminetopia_vehicles/horn6",
+			"customminetopia_vehicles/horn7",
+			"customminetopia_vehicles/horn8",
+			"customminetopia_vehicles/horn9"
+		]
+	},
+	"metro.m7.platform.platformnb": {
+		"sounds": [
+			"metro/m7/platform/platformnb"
+		]
+	},
+	"metro.m7.platform.platformsb": {
+		"sounds": [
+			"metro/m7/platform/platformsb"
+		]
+	},
+	"minecart.base": {
+		"sounds": [
+			"minecart/base"
+		]
+	},
+	"minecart.inside": {
+		"sounds": [
+			"minecart/inside"
+		]
+	},
+	"nr.adayinmetro": {
+		"sounds": [
+			"nr/adayinmetro"
+		]
+	},
+	"nr.bell": {
+		"sounds": [
+			"nr/bell"
+		]
+	},
+	"nr.bokudoraemon": {
+		"sounds": [
+			"nr/bokudoraemon"
+		]
+	},
+	"nr.cieloestrellado": {
+		"sounds": [
+			"nr/cieloestrellado"
+		]
+	},
+	"nr.haru": {
+		"sounds": [
+			"nr/haru"
+		]
+	},
+	"nr.jrsha": {
+		"sounds": [
+			"nr/jrsha"
+		]
+	},
+	"nr.jrshb": {
+		"sounds": [
+			"nr/jrshb"
+		]
+	},
+	"nr.jrshc": {
+		"sounds": [
+			"nr/jrshc"
+		]
+	},
+	"nr.koisurufortunecookie": {
+		"sounds": [
+			"nr/koisurufortunecookie"
+		]
+	},
+	"nr.sakuraa": {
+		"sounds": [
+			"nr/sakuraa"
+		]
+	},
+	"nr.sakurab": {
+		"sounds": [
+			"nr/sakurab"
+		]
+	},
+	"nr.sakurac": {
+		"sounds": [
+			"nr/sakurac"
+		]
+	},
+	"nr.sakurad": {
+		"sounds": [
+			"nr/sakurad"
+		]
+	},
+	"nr.seseragi": {
+		"sounds": [
+			"nr/seseragi"
+		]
+	},
+	"nr.suiko": {
+		"sounds": [
+			"nr/suiko"
+		]
+	},
+	"nr.suiminfusoku": {
+		"sounds": [
+			"nr/suiminfusoku"
+		]
+	},
+	"nr.watercrown": {
+		"sounds": [
+			"nr/watercrown"
+		]
+	},
+	"nr.yumewokanaetedoraemon": {
+		"sounds": [
+			"nr/yumewokanaetedoraemon"
+		]
+	},
+	"seoulmetro.arra": {
+		"sounds": [
+			"seoulmetro/arra"
+		]
+	},
+	"seoulmetro.arrb": {
+		"sounds": [
+			"seoulmetro/arrb"
+		]
+	},
+	"seoulmetro.interchange": {
+		"sounds": [
+			"seoulmetro/interchange"
+		]
+	},
+	"seoulmetro.korail": {
+		"sounds": [
+			"seoulmetro/korail"
+		]
+	},
+	"seoulmetro.logonew": {
+		"sounds": [
+			"seoulmetro/logonew"
+		]
+	},
+	"seoulmetro.logonewhook": {
+		"sounds": [
+			"seoulmetro/logonewhook"
+		]
+	},
+	"seoulmetro.logoold": {
+		"sounds": [
+			"seoulmetro/logoold"
+		]
+	},
+	"seoulmetro.logooldhook": {
+		"sounds": [
+			"seoulmetro/logooldhook"
+		]
+	},
+	"universal.accelerate": {
+		"sounds": [
+			"universal/accelerate"
+		]
+	},
+	"universal.ats": {
+		"sounds": [
+			"universal/ats"
+		]
+	},
+	"universal.atsr": {
+		"sounds": [
+			"universal/atsr"
+		]
+	},
+	"universal.brakedish": {
+		"sounds": [
+			"universal/brakedish"
+		]
+	},
+	"universal.buzzer": {
+		"sounds": [
+			"universal/buzzer"
+		]
+	},
+	"universal.deaccelerate": {
+		"sounds": [
+			"universal/deaccelerate"
+		]
+	},
+	"universal.deadsection": {
+		"sounds": [
+			"universal/deadsection"
+		]
+	},
+	"universal.dooralarm": {
+		"sounds": [
+			"universal/dooralarm"
+		]
+	},
+	"universal.etcs": {
+		"sounds": [
+			"universal/etcs"
+		]
+	},
+	"universal.neutral": {
+		"sounds": [
+			"universal/neutral"
+		]
+	},
+	"universal.release": {
+		"sounds": [
+			"universal/release"
+		]
+	},
+	"universal.speedlimit": {
+		"sounds": [
+			"universal/speedlimit"
+		]
+	},
+	"universal.stopstation": {
+		"sounds": [
+			"universal/stopstation"
+		]
+	},
+	"universal.thanthem": {
+		"sounds": [
+			"universal/thanthem"
+		]
+	},
+	"universal.warn": {
+		"sounds": [
+			"universal/warn"
+		]
+	},
+	"universal.whistle": {
+		"sounds": [
+			"universal/whistle"
+		]
+	},
+	"universal.whistlelong": {
+		"sounds": [
+			"universal/whistlelong"
+		]
+	}
+}

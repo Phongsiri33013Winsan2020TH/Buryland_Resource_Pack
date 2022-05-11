@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "block/black_concrete",
+		"7": "APM/609",
+		"particle": "block/blue_concrete_powder"
+	},
+	"elements": [
+		{
+			"from": [2.75, 21.05, -14.5],
+			"to": [13.25, 22.7, -14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-5, -2, -0.5]},
+			"faces": {
+				"north": {"uv": [0, 6.72, 16, 9.298], "texture": "#7"},
+				"east": {"uv": [0, 0, 16, 0.05], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 0.05], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 0.05], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/clock/clock_base",
+  "textures": {
+    "time_1": "item/clock/clock_time_night_1",
+    "time_2": "item/clock/clock_time_night_3",
+    "time_3": "item/clock/clock_time_night_0",
+    "time_4": "item/clock/clock_time_night_0",
+    "time_5": "item/clock/clock_time_night_0",
+    "day_1": "item/clock/clock_daylight_detector_0",
+    "day_2": "item/clock/clock_daylight_detector_2",
+    "day_inverted_1": "item/clock/clock_daylight_detector_inverted_0",
+    "day_inverted_2": "item/clock/clock_daylight_detector_inverted_7",
+    "bed": "item/clock/clock_bed_on",
+    "emerald": "item/clock/clock_emerald_off"
+  }
+}
