@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/light_gray_concrete",
+		"4": "TMSC/rollsign-thn1",
+		"5": "TMSC/rollsign-thn2",
+		"particle": "block/light_gray_concrete"
+	},
+	"elements": [
+		{
+			"from": [17.37697, -8.75292, -15.5],
+			"to": [17.87697, 10.5, -5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.72697, 0.99708, -43.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.7, 1.50292], "texture": "#0"},
+				"east": {"uv": [4.2, 0, 11.71, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 0.7, 1.50292], "texture": "#0"},
+				"west": {"uv": [4.224, 0, 11.766, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 0.7, 9.75], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.7, 9.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}
