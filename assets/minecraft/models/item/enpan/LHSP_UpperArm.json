@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "LipanLocoTextures/shine metal",
-		"6": "LipanLocoTextures/wagon metal",
+		"3": "block/gray_concrete",
+		"6": "block/gray_concrete",
 		"particle": "LipanLocoTextures/Crimson"
 	},"display": {
 		"head": {

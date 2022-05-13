@@ -1,11 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "LipanLocoTextures/dark metal",
-		"3": "LipanLocoTextures/shine metal",
-		"6": "LipanLocoTextures/wagon metal",
-		"7": "LipanLocoTextures/LHSP_graphite",
-		"particle": "LipanLocoTextures/Crimson"
+		"1": "block/light_gray_concrete",
+		"3": "block/gray_concrete",
+		"6": "block/gray_concrete_powder",
+		"7": "block/black_concrete_powder"
 	},"display": {
 		"head": {
 			"scale": [
