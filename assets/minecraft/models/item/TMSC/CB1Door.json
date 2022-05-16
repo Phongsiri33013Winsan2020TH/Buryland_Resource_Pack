@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "block/white_concrete",
-		"6": "block/white_stained_glass",
+		"6": "block/glass",
 		"7": "block/black_stained_glass",
 		"8": "block/green_concrete",
 		"particle": "block/gray_concrete"
