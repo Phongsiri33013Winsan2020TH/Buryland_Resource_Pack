@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/redstone_lamp_on",
+		"1": "block/white_concrete",
+		"particle": "block/redstone_lamp_on"
+	},
+	"elements": [
+		{
+			"from": [13, 7.25, 27.75],
+			"to": [14.5, 8.75, 28],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 1.5, 4.25], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.5, 4.25], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.5, 7.25, 27.75],
+			"to": [3, 8.75, 28],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 4.25], "texture": "#1"},
+				"east": {"uv": [0, 0, 1.5, 4.25], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.5, 4.25], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 1.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}

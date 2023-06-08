@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/black_concrete",
+		"1": "block/mrt/display_m3_black_concrete",
+		"particle": "block/black_concrete"
+	},
+	"elements": [
+		{
+			"from": [3.75, 18.25, 20.1],
+			"to": [12.25, 20.25, 21.85],
+			"faces": {
+				"north": {"uv": [0, 0, 12.5, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"south": {"uv": [3.936, 12.384, 11.872, 13.984], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 12.5, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 12.5, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
