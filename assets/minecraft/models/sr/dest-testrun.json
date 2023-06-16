@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "block/mrt/dest_black_concrete",
+		"5": "block/black_concrete",
+		"particle": "block/redstone_lamp_on"
+	},
+	"elements": [
+		{
+			"from": [2.75, 19.76731, 22.58156],
+			"to": [13.25, 21.26731, 25.33156],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8.607, 16.21524]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.75, 1], "rotation": 180, "texture": "#5"},
+				"east": {"uv": [0, 0, 1, 13.75], "rotation": 90, "texture": "#5"},
+				"south": {"uv": [1.088, 2.816, 14.336, 4.808], "texture": "#4"},
+				"west": {"uv": [0, 0, 1, 13.75], "rotation": 270, "texture": "#5"},
+				"up": {"uv": [0, 10.57, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 0.75, 13.75], "rotation": 180, "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	}
+}
