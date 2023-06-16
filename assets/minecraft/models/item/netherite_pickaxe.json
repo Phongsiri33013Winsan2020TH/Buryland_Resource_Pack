@@ -52,7 +52,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.022156573116691 }, "model": "sr/dest-huamak" },
 		{ "predicate": { "damaged": 0, "damage": 0.022648941408173 }, "model": "sr/dest-natlhall" },
 		{ "predicate": { "damaged": 0, "damage": 0.023141309699655 }, "model": "sr/gangway" },
-		{ "predicate": { "damaged": 0, "damage": 0.023633677991137 }, "model": "item/netherite_pickaxe48" },
+		{ "predicate": { "damaged": 0, "damage": 0.023633677991137 }, "model": "tok" },
 		{ "predicate": { "damaged": 0, "damage": 0.024126046282619 }, "model": "item/netherite_pickaxe49" },
 		{ "predicate": { "damaged": 0, "damage": 0.024618414574101 }, "model": "item/netherite_pickaxe50" },
 		{ "predicate": { "damaged": 0, "damage": 0.025110782865583 }, "model": "item/netherite_pickaxe51" },
