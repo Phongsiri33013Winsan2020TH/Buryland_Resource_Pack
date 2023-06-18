@@ -1174,15 +1174,19 @@
 			"universal/whistle"
 		]
 	},
-	"universal.Whistle": {
-		"sounds": [
-			"universal/Whistle1",
-			"universal/Whistle2"
-		]
-	},
 	"universal.whistlelong": {
 		"sounds": [
 			"universal/whistlelong"
+		]
+	},
+	"universal.whistle_a": {
+		"sounds": [
+			"universal/whistle_a"
+		]
+	},
+	"universal.whistle_b": {
+		"sounds": [
+			"universal/whistle_b"
 		]
 	}
 }
