@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/ccw.png",
+            "file": "minecraft:font/exit.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/cw.png",
+            "file": "minecraft:font/staffchat.png",
             "ascent": 8,
             "height": 10,
             "chars": [
