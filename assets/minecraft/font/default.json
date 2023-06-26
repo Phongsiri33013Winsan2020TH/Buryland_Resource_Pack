@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/architect.png",
+            "file": "minecraft:font/banharlon.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -29,7 +29,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/exit.png",
+            "file": "minecraft:font/bus.png",
             "ascent": 8,
             "height": 10,
             "chars": [
@@ -182,7 +182,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/pm.png",
+            "file": "minecraft:font/limarusunrise.png",
             "ascent": 7,
             "height": 8,
             "chars": [
@@ -200,7 +200,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/president.png",
+            "file": "minecraft:font/owner.png",
             "ascent": 7,
             "height": 8,
             "chars": [
