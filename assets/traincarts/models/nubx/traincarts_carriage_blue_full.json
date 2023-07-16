@@ -1,6 +1,0 @@
-{
-    "parent": "traincarts:nubx/traincarts_carriage_full",
-    "textures": {
-        "main": "traincarts:model/nubx/traincarts_carriage_blue_full"
-    }
-}

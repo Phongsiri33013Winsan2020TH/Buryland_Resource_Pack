@@ -1,7 +1,0 @@
-{
-    "parent": "traincarts:maxi/coaster_cart_base",
-	"credit": "Made with heart by Max_I",
-    "textures": {
-        "main": "traincarts:model/maxi/concrete_blue"
-    }
-}

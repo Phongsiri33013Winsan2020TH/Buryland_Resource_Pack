@@ -1,0 +1,18 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_ingot"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 500}, "model": "item/YCM_Third_Rail"},
+    {"predicate": {"custom_model_data": 1015}, "model": "item/trainmodel/entetsu/S700_end"},
+    {"predicate": {"custom_model_data": 1016}, "model": "item/trainmodel/entetsu/S700_door"},
+    {"predicate": {"custom_model_data": 1017}, "model": "item/trainmodel/entetsu/S700_mid"},
+    {"predicate": {"custom_model_data": 1018}, "model": "item/trainmodel/entetsu/S700_head"},
+    {"predicate": {"custom_model_data": 1019}, "model": "item/trainmodel/entetsu/S700_mid_first"},
+    {"predicate": {"custom_model_data": 1026}, "model": "item/trainmodel/entetsu/C307_end"},
+    {"predicate": {"custom_model_data": 1027}, "model": "item/trainmodel/entetsu/C307_mid"},
+    {"predicate": {"custom_model_data": 1028}, "model": "item/trainmodel/entetsu/C307_head"},
+    {"predicate": {"custom_model_data": 1029}, "model": "item/trainmodel/entetsu/C307_connector"}
+  ]
+}
