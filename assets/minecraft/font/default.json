@@ -332,6 +332,33 @@
             "chars": [
                 "\uEfe5"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ktb.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEfa9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/br.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEfa8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/mts.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEfa7"
+            ]
         }
     ]
 }
