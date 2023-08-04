@@ -1164,6 +1164,11 @@
 			"universal/thanthem"
 		]
 	},
+	"universal.trinity": {
+		"sounds": [
+			"universal/trinity"
+		]
+	},
 	"universal.warn": {
 		"sounds": [
 			"universal/warn"
