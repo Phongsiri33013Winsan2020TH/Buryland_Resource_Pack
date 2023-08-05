@@ -129,7 +129,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.060068931560807 }, "model": "item/trainmodel/entetsu/C27_end_ttl" },
 		{ "predicate": { "damaged": 0, "damage": 0.06056129985229 }, "model": "item/trainmodel/entetsu/C27_mid_ttl" },
 		{ "predicate": { "damaged": 0, "damage": 0.061053668143772 }, "model": "item/trainmodel/misc/entetsu_door_ttl" },
-		{ "predicate": { "damaged": 0, "damage": 0.061546036435254 }, "model": "item/netherite_pickaxe125" },
+		{ "predicate": { "damaged": 0, "damage": 0.061546036435254 }, "model": "item/trainmodel/entetsu/C27_mid_ttl" },
 		{ "predicate": { "damaged": 0, "damage": 0.062038404726736 }, "model": "item/netherite_pickaxe126" },
 		{ "predicate": { "damaged": 0, "damage": 0.062530773018218 }, "model": "item/netherite_pickaxe127" },
 		{ "predicate": { "damaged": 0, "damage": 0.0630231413097 }, "model": "item/netherite_pickaxe128" },
