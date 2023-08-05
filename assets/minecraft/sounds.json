@@ -1114,9 +1114,19 @@
 			"universal/brakedish"
 		]
 	},
+	"universal.bus-request-stop": {
+		"sounds": [
+			"universal/bus-request-stop"
+		]
+	},
 	"universal.buzzer": {
 		"sounds": [
 			"universal/buzzer"
+		]
+	},
+	"universal.card-stamp": {
+		"sounds": [
+			"universal/card-stamp"
 		]
 	},
 	"universal.deaccelerate": {
@@ -1142,6 +1152,11 @@
 	"universal.neutral": {
 		"sounds": [
 			"universal/neutral"
+		]
+	},
+	"universal.railroad-crossing": {
+		"sounds": [
+			"universal/railroad-crossing"
 		]
 	},
 	"universal.release": {
