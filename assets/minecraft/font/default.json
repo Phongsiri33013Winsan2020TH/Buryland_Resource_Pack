@@ -359,6 +359,15 @@
             "chars": [
                 "\uEfa7"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/rastransit.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uEfa6"
+            ]
         }
     ]
 }
