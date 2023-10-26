@@ -5,27 +5,32 @@
   },
   "overrides": [
 
-    {"predicate": {"custom_model_data": 100}, "model": "item/national_id"},
+    {"predicate": {"custom_model_data": 100}, "model": "item/cards/national_id"},
 
-    {"predicate": {"custom_model_data": 101}, "model": "item/private_car_driving_license"},
-    {"predicate": {"custom_model_data": 102}, "model": "item/public_car_driving_license"},
-    {"predicate": {"custom_model_data": 103}, "model": "item/bus_driving_license"},
-    {"predicate": {"custom_model_data": 104}, "model": "item/tram_driving_license"},
-    {"predicate": {"custom_model_data": 105} "model": "item/train_driving_license"},
-    {"predicate": {"custom_model_data": 106}, "model": "item/boat_driving_license"},
-    {"predicate": {"custom_model_data": 107}, "model": "item/ferry_driving_license"},
-    {"predicate": {"custom_model_data": 108}, "model": "item/military_driving_license"},
+    {"predicate": {"custom_model_data": 101}, "model": "item/cards/private_car_driving_license"},
+    {"predicate": {"custom_model_data": 102}, "model": "item/cards/public_car_driving_license"},
+    {"predicate": {"custom_model_data": 103}, "model": "item/cards/bus_driving_license"},
+    {"predicate": {"custom_model_data": 104}, "model": "item/cards/tram_driving_license"},
+    {"predicate": {"custom_model_data": 105} "model": "item/cards/train_driving_license"},
+    {"predicate": {"custom_model_data": 106}, "model": "item/cards/boat_driving_license"},
+    {"predicate": {"custom_model_data": 107}, "model": "item/cards/ferry_driving_license"},
+    {"predicate": {"custom_model_data": 108}, "model": "item/cards/military_driving_license"},
 
-    {"predicate": {"custom_model_data": 120}, "model": "item/train_ticket"},
-    {"predicate": {"custom_model_data": 121}, "model": "item/d_ticket"},
-    {"predicate": {"custom_model_data": 122}, "model": "item/mywinacard"},
-    {"predicate": {"custom_model_data": 123}, "model": "item/turtle_card"},
-    {"predicate": {"custom_model_data": 124}, "model": "item/turtle_ic_mecom"},
-    {"predicate": {"custom_model_data": 125}, "model": "item/pancard"},
+    {"predicate": {"custom_model_data": 120}, "model": "item/cards/train_ticket"},
+    {"predicate": {"custom_model_data": 121}, "model": "item/cards/d_ticket"},
+    {"predicate": {"custom_model_data": 122}, "model": "item/cards/mywinacard"},
+    {"predicate": {"custom_model_data": 123}, "model": "item/cards/turtle_card"},
+    {"predicate": {"custom_model_data": 124}, "model": "item/cards/turtle_ic_mecom"},
+    {"predicate": {"custom_model_data": 125}, "model": "item/cards/pancard"},
 
-    {"predicate": {"custom_model_data": 140}, "model": "item/welfare_card"},
-    {"predicate": {"custom_model_data": 141}, "model": "item/mywinabank_debit_card"},
-    {"predicate": {"custom_model_data": 142}, "model": "item/op_bank_debit_card"}
+    {"predicate": {"custom_model_data": 200}, "model": "item/cards/turtle_nbm"},
+    {"predicate": {"custom_model_data": 201}, "model": "item/cards/turtle_mec"},
+    {"predicate": {"custom_model_data": 202}, "model": "item/cards/turtle_shinchan"},
+    {"predicate": {"custom_model_data": 203}, "model": "item/cards/turtle_doraemon"},
+
+    {"predicate": {"custom_model_data": 140}, "model": "item/cards/welfare_card"},
+    {"predicate": {"custom_model_data": 141}, "model": "item/cards/mywinabank_debit_card"},
+    {"predicate": {"custom_model_data": 142}, "model": "item/cards/op_bank_debit_card"}
 
 
   ]
