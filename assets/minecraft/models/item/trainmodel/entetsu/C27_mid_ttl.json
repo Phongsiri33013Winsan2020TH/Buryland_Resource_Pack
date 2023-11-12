@@ -6,7 +6,7 @@
 		"4": "block/light_gray_concrete",
 		"6": "block/stripped_birch_log",
 		"7": "block/cyan_shulker_box",
-		"11": "block/redstone_torch",
+		"12": "block/tll/TLL",
 		"15": "block/cyan_wool",
 		"16": "block/ttl",
 		"18": "block/cobbled_deepslate",
@@ -322,7 +322,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.26613, 8]},
 			"faces": {
 				"east": {"uv": [12, 0, 0, 3], "texture": "#6"},
-				"west": {"uv": [8, 7, 9, 8], "texture": "#11"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#12"}
 			}
 		},
 		{
@@ -330,7 +330,7 @@
 			"to": [24.25, 23.25, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11.26613, 8]},
 			"faces": {
-				"east": {"uv": [8, 7, 9, 8], "texture": "#11"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#12"},
 				"west": {"uv": [0, 0, 12, 3], "texture": "#6"}
 			}
 		},

@@ -574,9 +574,1414 @@
 			"atos/wsw"
 		]
 	},
-	"bangkokmrt.happyblueline": {
+	"custom.bluestar.subway.music.depart.bsr_general": {
 		"sounds": [
-			"bangkokmrt/happyblueline"
+			"custom/bluestar/subway/music/depart/bsr_general"
+		]
+	},
+	"custom.bxmc.subway.music.depart.bx_general": {
+		"sounds": [
+			"custom/bxmc/subway/music/depart/bx_general"
+		]
+	},
+	"custom.ftmc.bcart.x2_door_rhs": {
+		"sounds": [
+			"custom/ftmc/bcart/x2_door_rhs"
+		]
+	},
+	"custom.ftmc.bcart.x3_doors_left": {
+		"sounds": [
+			"custom/ftmc/bcart/x3_doors_left"
+		]
+	},
+	"custom.ftmc.bcart.x3_doors_right": {
+		"sounds": [
+			"custom/ftmc/bcart/x3_doors_right"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2le_bp": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2le_bp"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2le_cpl": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2le_cpl"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2le_gt": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2le_gt"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2le_si": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2le_si"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2lw_bp": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2lw_bp"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2lw_cpl": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2lw_cpl"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2lw_fh": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2lw_fh"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2lw_si": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2lw_si"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xe_fh": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xe_fh"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xe_gt": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xe_gt"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xe_rm": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xe_rm"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xw_fh": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xw_fh"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xw_rec": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xw_rec"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2xw_rm": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2xw_rm"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x2x_general": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x2x_general"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_ap": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_ap"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_cb": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_cb"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_cor": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_cor"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_dr": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_dr"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_fh": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_fh"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_gbm": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_gbm"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3n_pt": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3n_pt"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_ap": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_ap"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_cb": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_cb"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_dg": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_dg"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_dr": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_dr"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_fh": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_fh"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_gbm": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_gbm"
+		]
+	},
+	"custom.ftmc.bcart.clipped.x3s_pt": {
+		"sounds": [
+			"custom/ftmc/bcart/clipped/x3s_pt"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_av": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_av"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_cm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_cm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_co": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_co"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_gbm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_gbm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_gh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_gh"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_mnb": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_mnb"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_oa": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_oa"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_op": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_op"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_ra": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_ra"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1e_st": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1e_st"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_av": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_av"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_cm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_cm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_co": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_co"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_gh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_gh"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_mnb": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_mnb"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_nv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_nv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_ra": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_ra"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_rm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_rm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1w_st": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1w_st"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_av": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_av"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_co": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_co"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_gbm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_gbm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_gt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_gt"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_op": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_op"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_rm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_rm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_sgt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_sgt"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xe_st": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xe_st"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_av": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_av"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_co": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_co"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_gbm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_gbm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_nv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_nv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_op": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_op"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_rm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_rm"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_sgt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_sgt"
+		]
+	},
+	"custom.ftmc.subway.music.line_1xw_st": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_1xw_st"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_as": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_as"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_bp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_bp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_cmi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_cmi"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_db": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_db"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_fp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_fp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_mnb": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_mnb"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_psp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_psp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2i_sst": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2i_sst"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_em": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_em"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_fh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_fh"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_gh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_gh"
+		]
+	},
+	"custom.ftmc.subway.music.line_2n_wmp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2n_wmp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_as": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_as"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_bp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_bp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_cmi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_cmi"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_db": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_db"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_fp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_fp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_mnb": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_mnb"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_psp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_psp"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_psp_v2": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_psp_v2"
+		]
+	},
+	"custom.ftmc.subway.music.line_2o_sst": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2o_sst"
+		]
+	},
+	"custom.ftmc.subway.music.line_2s_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2s_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_2s_em": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2s_em"
+		]
+	},
+	"custom.ftmc.subway.music.line_2s_fh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2s_fh"
+		]
+	},
+	"custom.ftmc.subway.music.line_2s_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2s_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_2s_wmp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_2s_wmp"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_cic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_cic"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_fh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_fh"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_mic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_mic"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_pi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_pi"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_psp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_psp"
+		]
+	},
+	"custom.ftmc.subway.music.line_3e_rf": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3e_rf"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_ch": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_ch"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_cic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_cic"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_fh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_fh"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_mic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_mic"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_oa": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_oa"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_pi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_pi"
+		]
+	},
+	"custom.ftmc.subway.music.line_3w_rf": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_3w_rf"
+		]
+	},
+	"custom.ftmc.subway.music.line_4n_c": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4n_c"
+		]
+	},
+	"custom.ftmc.subway.music.line_4n_coh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4n_coh"
+		]
+	},
+	"custom.ftmc.subway.music.line_4n_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4n_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_4n_xh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4n_xh"
+		]
+	},
+	"custom.ftmc.subway.music.line_4s_coh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4s_coh"
+		]
+	},
+	"custom.ftmc.subway.music.line_4s_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4s_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_4s_fc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4s_fc"
+		]
+	},
+	"custom.ftmc.subway.music.line_4s_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4s_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_4s_xh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4s_xh"
+		]
+	},
+	"custom.ftmc.subway.music.line_4_c": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_4_c"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_bc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_bc"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_bc_v2": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_bc_v2"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_jp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_jp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_oc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_oc"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_ph": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_ph"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_prp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_prp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_psp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_psp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_rm": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_rm"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_5e_sp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5e_sp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_bc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_bc"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_c": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_c"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_jp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_jp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_oc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_oc"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_prp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_prp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_psp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_psp"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_pv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_pv"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_rf": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_rf"
+		]
+	},
+	"custom.ftmc.subway.music.line_5w_scv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5w_scv"
+		]
+	},
+	"custom.ftmc.subway.music.line_5_c": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_5_c"
+		]
+	},
+	"custom.ftmc.subway.music.line_6e_ch": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6e_ch"
+		]
+	},
+	"custom.ftmc.subway.music.line_6e_nst": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6e_nst"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_ch": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_ch"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_cmi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_cmi"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_cp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_cp"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_nst": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_nst"
+		]
+	},
+	"custom.ftmc.subway.music.line_6n_oc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6n_oc"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_ch": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_ch"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_cmi": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_cmi"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_fp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_fp"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_oc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_oc"
+		]
+	},
+	"custom.ftmc.subway.music.line_6s_rs": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_6s_rs"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_db": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_db"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_dsp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_dsp"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_fw": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_fw"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_ib": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_ib"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_nv": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_nv"
+		]
+	},
+	"custom.ftmc.subway.music.line_7e_zc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7e_zc"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_bc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_bc"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_db": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_db"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_dsp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_dsp"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_fw": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_fw"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_7w_zc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_7w_zc"
+		]
+	},
+	"custom.ftmc.subway.music.line_8i_ib": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8i_ib"
+		]
+	},
+	"custom.ftmc.subway.music.line_8i_mic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8i_mic"
+		]
+	},
+	"custom.ftmc.subway.music.line_8i_prp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8i_prp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8i_si": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8i_si"
+		]
+	},
+	"custom.ftmc.subway.music.line_8i_xh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8i_xh"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_coh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_coh"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_em": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_em"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_lsp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_lsp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_ra": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_ra"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_sp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_sp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_tt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_tt"
+		]
+	},
+	"custom.ftmc.subway.music.line_8n_wmp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8n_wmp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8o_em": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8o_em"
+		]
+	},
+	"custom.ftmc.subway.music.line_8o_ib": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8o_ib"
+		]
+	},
+	"custom.ftmc.subway.music.line_8o_mic": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8o_mic"
+		]
+	},
+	"custom.ftmc.subway.music.line_8o_prp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8o_prp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8o_si": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8o_si"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_coh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_coh"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_dg": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_dg"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_gc": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_gc"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_lsp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_lsp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_ra": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_ra"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_sp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_sp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_tt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_tt"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_wmp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_wmp"
+		]
+	},
+	"custom.ftmc.subway.music.line_8s_xh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_8s_xh"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_bp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_bp"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_cpl": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_cpl"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_df": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_df"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_fw": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_fw"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_ihs": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_ihs"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_nss": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_nss"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_sh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_sh"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_si": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_si"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_sp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_sp"
+		]
+	},
+	"custom.ftmc.subway.music.line_9e_str": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9e_str"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_bp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_bp"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_cpl": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_cpl"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_ep": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_ep"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_fw": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_fw"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_ihs": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_ihs"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_nh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_nh"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_nss": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_nss"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_sh": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_sh"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_si": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_si"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_sp": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_sp"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_str": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_str"
+		]
+	},
+	"custom.ftmc.subway.music.line_9w_tt": {
+		"sounds": [
+			"custom/ftmc/subway/music/line_9w_tt"
+		]
+	},
+	"custom.ilc.subway.music.depart.line_c1": {
+		"sounds": [
+			"custom/ilc/subway/music/depart/line_c1"
+		]
+	},
+	"custom.ilc.subway.music.depart.line_c2": {
+		"sounds": [
+			"custom/ilc/subway/music/depart/line_c2"
+		]
+	},
+	"custom.mlr.subway.music.depart.mlr_general": {
+		"sounds": [
+			"custom/mlr/subway/music/depart/mlr_general"
+		]
+	},
+	"custom.ots.misc.fm": {
+		"sounds": [
+			"custom/ots/misc/fm"
+		]
+	},
+	"custom.ots.psd.psd_co": {
+		"sounds": [
+			"custom/ots/psd/psd_co"
+		]
+	},
+	"custom.ots.psd.psd_tm": {
+		"sounds": [
+			"custom/ots/psd/psd_tm"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s10d_wbf": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s10d_wbf"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s10u_wbf": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s10u_wbf"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1n_av": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1n_av"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1n_ph": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1n_ph"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1n_pp": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1n_pp"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1s_nwm": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1s_nwm"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1s_ph": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1s_ph"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1s_pp": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1s_pp"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s1s_smn": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s1s_smn"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s2e_smn": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s2e_smn"
+		]
+	},
+	"custom.ots.subway.music.dep.line_s2w_njt": {
+		"sounds": [
+			"custom/ots/subway/music/dep/line_s2w_njt"
+		]
+	},
+	"custom.qtr.subway.music.depart.qtr_general": {
+		"sounds": [
+			"custom/qtr/subway/music/depart/qtr_general"
+		]
+	},
+	"ftmc.subway.museum3.nr_doorclose": {
+		"sounds": [
+			"ftmc/subway/museum3/nr_doorclose"
+		]
+	},
+	"ftmc.subway.music.autumn": {
+		"sounds": [
+			"ftmc/subway/music/autumn"
+		]
+	},
+	"ftmc.subway.music.fifa2018": {
+		"sounds": [
+			"ftmc/subway/music/fifa2018"
+		]
+	},
+	"ftmc.subway.music.fifa2022": {
+		"sounds": [
+			"ftmc/subway/music/fifa2022"
+		]
+	},
+	"ftmc.subway.music.gaiety": {
+		"sounds": [
+			"ftmc/subway/music/gaiety"
+		]
+	},
+	"ftmc.subway.music.guidao": {
+		"sounds": [
+			"ftmc/subway/music/guidao"
+		]
+	},
+	"ftmc.subway.music.guidao_full": {
+		"sounds": [
+			"ftmc/subway/music/guidao_full"
+		]
+	},
+	"ftmc.subway.music.hanawasaku": {
+		"sounds": [
+			"ftmc/subway/music/hanawasaku"
+		]
+	},
+	"ftmc.subway.music.legends": {
+		"sounds": [
+			"ftmc/subway/music/legends"
+		]
+	},
+	"ftmc.subway.music.mayvillage": {
+		"sounds": [
+			"ftmc/subway/music/mayvillage"
+		]
+	},
+	"ftmc.subway.music.newyear": {
+		"sounds": [
+			"ftmc/subway/music/newyear"
+		]
+	},
+	"ftmc.subway.music.sakura": {
+		"sounds": [
+			"ftmc/subway/music/sakura"
+		]
+	},
+	"ftmc.subway.music.spring": {
+		"sounds": [
+			"ftmc/subway/music/spring"
+		]
+	},
+	"ftmc.subway.music.summer": {
+		"sounds": [
+			"ftmc/subway/music/summer"
+		]
+	},
+	"ftmc.subway.music.tokyo2020": {
+		"sounds": [
+			"ftmc/subway/music/tokyo2020"
+		]
+	},
+	"ftmc.subway.music.tokyo2020_v2": {
+		"sounds": [
+			"ftmc/subway/music/tokyo2020_v2"
+		]
+	},
+	"ftmc.subway.music.winter": {
+		"sounds": [
+			"ftmc/subway/music/winter"
+		]
+	},
+	"item.crossbow.loading_middle1": {
+		"sounds": [
+			"item/crossbow/loading_middle1"
+		]
+	},
+	"item.crossbow.loading_middle2": {
+		"sounds": [
+			"item/crossbow/loading_middle2"
+		]
+	},
+	"item.crossbow.loading_middle3": {
+		"sounds": [
+			"item/crossbow/loading_middle3"
+		]
+	},
+	"item.crossbow.shoot1": {
+		"sounds": [
+			"item/crossbow/shoot1"
+		]
+	},
+	"item.crossbow.shoot2": {
+		"sounds": [
+			"item/crossbow/shoot2"
+		]
+	},
+	"item.crossbow.shoot3": {
+		"sounds": [
+			"item/crossbow/shoot3"
+		]
+	},
+	"item.crossbow.quick_charge.quick1_1": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick1_1"
+		]
+	},
+	"item.crossbow.quick_charge.quick1_2": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick1_2"
+		]
+	},
+	"item.crossbow.quick_charge.quick1_3": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick1_3"
+		]
+	},
+	"item.crossbow.quick_charge.quick2_1": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick2_1"
+		]
+	},
+	"item.crossbow.quick_charge.quick2_2": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick2_2"
+		]
+	},
+	"item.crossbow.quick_charge.quick2_3": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick2_3"
+		]
+	},
+	"item.crossbow.quick_charge.quick3_1": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick3_1"
+		]
+	},
+	"item.crossbow.quick_charge.quick3_2": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick3_2"
+		]
+	},
+	"item.crossbow.quick_charge.quick3_3": {
+		"sounds": [
+			"item/crossbow/quick_charge/quick3_3"
+		]
+	},
+	"line_e.door_close": {
+		"sounds": [
+			"line_e/door_close"
+		]
+	},
+	"line_e.door_open": {
+		"sounds": [
+			"line_e/door_open"
 		]
 	},
 	"minecart.base": {
@@ -587,6 +1992,166 @@
 	"minecart.inside": {
 		"sounds": [
 			"minecart/inside"
+		]
+	},
+	"misc.babu": {
+		"sounds": [
+			"misc/babu"
+		]
+	},
+	"misc.boom": {
+		"sounds": [
+			"misc/boom"
+		]
+	},
+	"misc.bounce": {
+		"sounds": [
+			"misc/bounce"
+		]
+	},
+	"misc.rrr": {
+		"sounds": [
+			"misc/rrr"
+		]
+	},
+	"misc.sine": {
+		"sounds": [
+			"misc/sine"
+		]
+	},
+	"misc.sine_long": {
+		"sounds": [
+			"misc/sine_long"
+		]
+	},
+	"misc.sine_short": {
+		"sounds": [
+			"misc/sine_short"
+		]
+	},
+	"misc.ya": {
+		"sounds": [
+			"misc/ya"
+		]
+	},
+	"note.bass": {
+		"sounds": [
+			"note/bass"
+		]
+	},
+	"note.bassattack": {
+		"sounds": [
+			"note/bassattack"
+		]
+	},
+	"note.bass_8vb": {
+		"sounds": [
+			"note/bass_8vb"
+		]
+	},
+	"note.bd": {
+		"sounds": [
+			"note/bd"
+		]
+	},
+	"note.harp": {
+		"sounds": [
+			"note/harp"
+		]
+	},
+	"note.harp_8va": {
+		"sounds": [
+			"note/harp_8va"
+		]
+	},
+	"note.harp_8vb": {
+		"sounds": [
+			"note/harp_8vb"
+		]
+	},
+	"note.hat": {
+		"sounds": [
+			"note/hat"
+		]
+	},
+	"note.pling": {
+		"sounds": [
+			"note/pling"
+		]
+	},
+	"note.pling_8va": {
+		"sounds": [
+			"note/pling_8va"
+		]
+	},
+	"note.pling_8vb": {
+		"sounds": [
+			"note/pling_8vb"
+		]
+	},
+	"note.snare": {
+		"sounds": [
+			"note/snare"
+		]
+	},
+	"note.vanilla.bass": {
+		"sounds": [
+			"note/vanilla/bass"
+		]
+	},
+	"note.vanilla.bassattack": {
+		"sounds": [
+			"note/vanilla/bassattack"
+		]
+	},
+	"note.vanilla.bd": {
+		"sounds": [
+			"note/vanilla/bd"
+		]
+	},
+	"note.vanilla.bell": {
+		"sounds": [
+			"note/vanilla/bell"
+		]
+	},
+	"note.vanilla.flute": {
+		"sounds": [
+			"note/vanilla/flute"
+		]
+	},
+	"note.vanilla.guitar": {
+		"sounds": [
+			"note/vanilla/guitar"
+		]
+	},
+	"note.vanilla.harp": {
+		"sounds": [
+			"note/vanilla/harp"
+		]
+	},
+	"note.vanilla.hat": {
+		"sounds": [
+			"note/vanilla/hat"
+		]
+	},
+	"note.vanilla.icechime": {
+		"sounds": [
+			"note/vanilla/icechime"
+		]
+	},
+	"note.vanilla.pling": {
+		"sounds": [
+			"note/vanilla/pling"
+		]
+	},
+	"note.vanilla.snare": {
+		"sounds": [
+			"note/vanilla/snare"
+		]
+	},
+	"note.vanilla.xylobone": {
+		"sounds": [
+			"note/vanilla/xylobone"
 		]
 	},
 	"nr.adayinmetro": {
@@ -677,6 +2242,31 @@
 	"nr.yumewokanaetedoraemon": {
 		"sounds": [
 			"nr/yumewokanaetedoraemon"
+		]
+	},
+	"random.bow": {
+		"sounds": [
+			"random/bow"
+		]
+	},
+	"random.bowhit1": {
+		"sounds": [
+			"random/bowhit1"
+		]
+	},
+	"random.bowhit2": {
+		"sounds": [
+			"random/bowhit2"
+		]
+	},
+	"random.bowhit3": {
+		"sounds": [
+			"random/bowhit3"
+		]
+	},
+	"random.bowhit4": {
+		"sounds": [
+			"random/bowhit4"
 		]
 	},
 	"srcity.ding.buzzer": {
@@ -1147,6 +2737,11 @@
 	"universal.etcs": {
 		"sounds": [
 			"universal/etcs"
+		]
+	},
+	"universal.mute": {
+		"sounds": [
+			"universal/mute"
 		]
 	},
 	"universal.neutral": {

@@ -9,10 +9,10 @@
 		"7": "block/cyan_shulker_box",
 		"8": "block/cobbled_deepslate",
 		"9": "block/black_concrete",
-		"11": "block/redstone_torch",
 		"12": "block/ent_controller",
 		"13": "block/glass",
 		"14": "block/ent_logo",
+		"15": "block/tll/TLL",
 		"particle": "block/black_stained_glass"
 	},
 	"elements": [
@@ -591,7 +591,7 @@
 			"to": [14, 27, -5.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, -7]},
 			"faces": {
-				"north": {"uv": [8, 7, 9, 8], "texture": "#11"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#15"},
 				"south": {"uv": [3, 3, 13, 13], "texture": "#2"}
 			}
 		},

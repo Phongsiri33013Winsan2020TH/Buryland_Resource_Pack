@@ -1,0 +1,136 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "./wtf",
+		"1": "./glass",
+		"2": "./battery",
+		"3": "./ledpanel",
+		"particle": "./wtf"
+	},
+	"elements": [
+		{
+			"name": "shield1",
+			"from": [2, -2, 5.5],
+			"to": [14, 21, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 5.75], "texture": "#0"},
+				"east": {"uv": [6, 0, 6.375, 5.75], "texture": "#0"},
+				"south": {"uv": [3, 0, 6, 5.75], "texture": "#0"},
+				"west": {"uv": [6, 5.75, 6.375, 11.5], "texture": "#0"},
+				"up": {"uv": [10, 0.375, 7, 0], "texture": "#0"},
+				"down": {"uv": [10, 0.5, 7, 0.875], "texture": "#0"}
+			}
+		},
+		{
+			"name": "glass1",
+			"from": [2, 21, 5.5],
+			"to": [14, 28, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 3.5], "texture": "#1"},
+				"east": {"uv": [8.5, 0, 9.25, 3.5], "texture": "#1"},
+				"south": {"uv": [0, 3.5, 6, 7], "texture": "#1"},
+				"west": {"uv": [8.5, 3.5, 9.25, 7], "texture": "#1"},
+				"up": {"uv": [11, 7.75, 5, 7], "texture": "#1"},
+				"down": {"uv": [11, 8, 5, 8.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield3",
+			"from": [5, -2, 13.3],
+			"to": [9.5, 21, 14.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [2.5, 5.75, 3.625, 11.5], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 6.875, 5.75], "texture": "#0"},
+				"south": {"uv": [3.75, 5.75, 4.875, 11.5], "texture": "#0"},
+				"west": {"uv": [6.5, 5.75, 6.875, 11.5], "texture": "#0"},
+				"up": {"uv": [8.125, 2.375, 7, 2], "texture": "#0"},
+				"down": {"uv": [8.125, 2.5, 7, 2.875], "texture": "#0"}
+			}
+		},
+		{
+			"name": "glass3",
+			"from": [5, 21, 13.3],
+			"to": [9.5, 28, 14.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [6, 0, 8.25, 3.5], "texture": "#1"},
+				"east": {"uv": [5, 9, 5.75, 12.5], "texture": "#1"},
+				"south": {"uv": [6, 3.5, 8.25, 7], "texture": "#1"},
+				"west": {"uv": [6, 9, 6.75, 12.5], "texture": "#1"},
+				"up": {"uv": [11.25, 9.75, 9, 9], "texture": "#1"},
+				"down": {"uv": [11.75, 0, 9.5, 0.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "glass2",
+			"from": [6.5, 21, 13.3],
+			"to": [11, 28, 14.8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 7, 2.25, 10.5], "texture": "#1"},
+				"east": {"uv": [7, 9, 7.75, 12.5], "texture": "#1"},
+				"south": {"uv": [2.5, 7, 4.75, 10.5], "texture": "#1"},
+				"west": {"uv": [8, 9, 8.75, 12.5], "texture": "#1"},
+				"up": {"uv": [11.75, 1.75, 9.5, 1], "texture": "#1"},
+				"down": {"uv": [11.75, 2, 9.5, 2.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "shield2",
+			"from": [6.5, -2, 13.3],
+			"to": [11, 21, 14.8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 5.75, 1.125, 11.5], "texture": "#0"},
+				"east": {"uv": [5, 5.75, 5.375, 11.5], "texture": "#0"},
+				"south": {"uv": [1.25, 5.75, 2.375, 11.5], "texture": "#0"},
+				"west": {"uv": [5.5, 5.75, 5.875, 11.5], "texture": "#0"},
+				"up": {"uv": [8.125, 1.375, 7, 1], "texture": "#0"},
+				"down": {"uv": [8.125, 1.5, 7, 1.875], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 19.5, 7],
+			"to": [11.5, 21, 7.4],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0.75], "texture": "#3"},
+				"east": {"uv": [0, 0.1, 0.2, 0.75], "texture": "#3"},
+				"south": {"uv": [0, 4, 16, 7], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.2, 0.75], "texture": "#3"},
+				"up": {"uv": [0, 0, 4, 0.2], "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 0.2], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.5, 18.8, 7],
+			"to": [11.5, 19.5, 7.8],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0.35], "texture": "#2"},
+				"east": {"uv": [0, 0, 0.4, 0.35], "texture": "#2"},
+				"south": {"uv": [0, 2, 16, 3.5], "texture": "#2"},
+				"west": {"uv": [0, 0, 0.4, 0.35], "texture": "#2"},
+				"up": {"uv": [2.5, 3, 6.5, 3.4], "texture": "#2"},
+				"down": {"uv": [6, 0, 10, 1.4], "texture": "#2"}
+			}
+		}
+	],
+	"overrides": [
+		{"model": "item/shield_blocking", "predicate": {"blocking": 1}}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-144, 29, -177],
+			"translation": [-0.5, -3.75, -5.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-144, 29, -177],
+			"translation": [-0.25, -2.25, -6.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-9, -7.5, 2.5]
+		}
+	}
+}
