@@ -6,7 +6,7 @@
   "overrides": [
     {"predicate": {"custom_model_data": 500}, "model": "item/YCM_Third_Rail"},
     
-    {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/C27_front_cab_door"},
-    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"}
+    {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/c27_front_cab_door"},
+    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/c27_front_escape_door"}
   ]
 }
