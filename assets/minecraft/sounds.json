@@ -574,6 +574,76 @@
 			"atos/wsw"
 		]
 	},
+	"bus6-1r.buriplaza": {
+		"sounds": [
+			"bus6-1r/buriplaza"
+		]
+	},
+	"bus6-1r.khaw1st": {
+		"sounds": [
+			"bus6-1r/khaw1st"
+		]
+	},
+	"bus6-1r.khaw2nd": {
+		"sounds": [
+			"bus6-1r/khaw2nd"
+		]
+	},
+	"bus6-1r.lucine_buriplaza": {
+		"sounds": [
+			"bus6-1r/lucine_buriplaza"
+		]
+	},
+	"bus6-1r.next_buriplaza": {
+		"sounds": [
+			"bus6-1r/next_buriplaza"
+		]
+	},
+	"bus6-1r.next_khaw1st": {
+		"sounds": [
+			"bus6-1r/next_khaw1st"
+		]
+	},
+	"bus6-1r.next_khaw2nd": {
+		"sounds": [
+			"bus6-1r/next_khaw2nd"
+		]
+	},
+	"bus6-1r.next_lucine_buriplaza": {
+		"sounds": [
+			"bus6-1r/next_lucine_buriplaza"
+		]
+	},
+	"bus6-1r.next_takanashi": {
+		"sounds": [
+			"bus6-1r/next_takanashi"
+		]
+	},
+	"bus6-1r.next_udomsuk1st": {
+		"sounds": [
+			"bus6-1r/next_udomsuk1st"
+		]
+	},
+	"bus6-1r.next_udomsuk2nd": {
+		"sounds": [
+			"bus6-1r/next_udomsuk2nd"
+		]
+	},
+	"bus6-1r.takanashi": {
+		"sounds": [
+			"bus6-1r/takanashi"
+		]
+	},
+	"bus6-1r.udomsuk1st": {
+		"sounds": [
+			"bus6-1r/udomsuk1st"
+		]
+	},
+	"bus6-1r.udomsuk2nd": {
+		"sounds": [
+			"bus6-1r/udomsuk2nd"
+		]
+	},
 	"custom.bluestar.subway.music.depart.bsr_general": {
 		"sounds": [
 			"custom/bluestar/subway/music/depart/bsr_general"
