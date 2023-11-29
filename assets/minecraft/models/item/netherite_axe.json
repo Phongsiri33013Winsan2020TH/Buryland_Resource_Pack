@@ -30,7 +30,7 @@
 		{ "predicate": { "damaged": 0, "damage": 0.011324470704087 }, "model": "nbm-meugon" },
 		{ "predicate": { "damaged": 0, "damage": 0.011816838995569 }, "model": "nbm-redfield" },
 		{ "predicate": { "damaged": 0, "damage": 0.012309207287051 }, "model": "nbm-thamakka" },
-		{ "predicate": { "damaged": 0, "damage": 0.012801575578533 }, "model": "sr/door-right3" },
+		{ "predicate": { "damaged": 0, "damage": 0.012801575578533 }, "model": "bba-huamak" },
 		{ "predicate": { "damaged": 0, "damage": 0.013293943870015 }, "model": "sr/marker1" },
 		{ "predicate": { "damaged": 0, "damage": 0.013786312161497 }, "model": "sr/marker2" },
 		{ "predicate": { "damaged": 0, "damage": 0.014278680452979 }, "model": "sr/marker3" },
