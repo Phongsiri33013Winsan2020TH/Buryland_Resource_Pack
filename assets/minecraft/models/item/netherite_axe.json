@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/netherite_pickaxe"
+		"layer0": "item/netherite_axe"
 	},
 	"overrides": [
 		{ "predicate": { "damage": 0 }, "model": "item/netherite_pickaxe" },
