@@ -1969,81 +1969,6 @@
 			"ftmc/subway/music/winter"
 		]
 	},
-	"item.crossbow.loading_middle1": {
-		"sounds": [
-			"item/crossbow/loading_middle1"
-		]
-	},
-	"item.crossbow.loading_middle2": {
-		"sounds": [
-			"item/crossbow/loading_middle2"
-		]
-	},
-	"item.crossbow.loading_middle3": {
-		"sounds": [
-			"item/crossbow/loading_middle3"
-		]
-	},
-	"item.crossbow.shoot1": {
-		"sounds": [
-			"item/crossbow/shoot1"
-		]
-	},
-	"item.crossbow.shoot2": {
-		"sounds": [
-			"item/crossbow/shoot2"
-		]
-	},
-	"item.crossbow.shoot3": {
-		"sounds": [
-			"item/crossbow/shoot3"
-		]
-	},
-	"item.crossbow.quick_charge.quick1_1": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick1_1"
-		]
-	},
-	"item.crossbow.quick_charge.quick1_2": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick1_2"
-		]
-	},
-	"item.crossbow.quick_charge.quick1_3": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick1_3"
-		]
-	},
-	"item.crossbow.quick_charge.quick2_1": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick2_1"
-		]
-	},
-	"item.crossbow.quick_charge.quick2_2": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick2_2"
-		]
-	},
-	"item.crossbow.quick_charge.quick2_3": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick2_3"
-		]
-	},
-	"item.crossbow.quick_charge.quick3_1": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick3_1"
-		]
-	},
-	"item.crossbow.quick_charge.quick3_2": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick3_2"
-		]
-	},
-	"item.crossbow.quick_charge.quick3_3": {
-		"sounds": [
-			"item/crossbow/quick_charge/quick3_3"
-		]
-	},
 	"line_e.door_close": {
 		"sounds": [
 			"line_e/door_close"
@@ -2312,31 +2237,6 @@
 	"nr.yumewokanaetedoraemon": {
 		"sounds": [
 			"nr/yumewokanaetedoraemon"
-		]
-	},
-	"random.bow": {
-		"sounds": [
-			"random/bow"
-		]
-	},
-	"random.bowhit1": {
-		"sounds": [
-			"random/bowhit1"
-		]
-	},
-	"random.bowhit2": {
-		"sounds": [
-			"random/bowhit2"
-		]
-	},
-	"random.bowhit3": {
-		"sounds": [
-			"random/bowhit3"
-		]
-	},
-	"random.bowhit4": {
-		"sounds": [
-			"random/bowhit4"
 		]
 	},
 	"srcity.ding.buzzer": {
