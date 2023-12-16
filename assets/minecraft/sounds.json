@@ -2704,6 +2704,11 @@
 			"universal/dooralarm"
 		]
 	},
+	"universal.door_closing_korean": {
+		"sounds": [
+			"universal/door_closing_korean"
+		]
+	},
 	"universal.etcs": {
 		"sounds": [
 			"universal/etcs"
@@ -2752,6 +2757,11 @@
 	"universal.warn": {
 		"sounds": [
 			"universal/warn"
+		]
+	},
+	"universal.watch_step": {
+		"sounds": [
+			"universal/watch_step"
 		]
 	},
 	"universal.whistle": {
