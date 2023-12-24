@@ -6,7 +6,20 @@
   "overrides": [
     {"predicate": {"custom_model_data": 500}, "model": "item/YCM_Third_Rail"},
     
-
+    {"predicate": {"custom_model_data": 1001}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_bck"},
+    {"predicate": {"custom_model_data": 1002}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_cabdoor"},
+    {"predicate": {"custom_model_data": 1003}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_doorL"},
+    {"predicate": {"custom_model_data": 1004}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_doorR"},
+    {"predicate": {"custom_model_data": 1005}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_fnt"},
+    {"predicate": {"custom_model_data": 1006}, "model": "item/trainmodel/lipan/Lipan_Midori_DM_seat"},
+    {"predicate": {"custom_model_data": 1007}, "model": "item/trainmodel/lipan/Lipan_Midori_gang"},
+    {"predicate": {"custom_model_data": 1008}, "model": "item/trainmodel/lipan/Lipan_Midori_M_bck"},
+    {"predicate": {"custom_model_data": 1009}, "model": "item/trainmodel/lipan/Lipan_Midori_M_fnt"},
+    {"predicate": {"custom_model_data": 1010}, "model": "item/trainmodel/lipan/Lipan_Midori_M_mid"},
+    {"predicate": {"custom_model_data": 1011}, "model": "item/trainmodel/lipan/Lipan_Midori_pdoor"},
+    {"predicate": {"custom_model_data": 1012}, "model": "item/trainmodel/ycm/E24_End"},
+    {"predicate": {"custom_model_data": 1013}, "model": "item/trainmodel/ycm/E24_Mid"},
+    {"predicate": {"custom_model_data": 1014}, "model": "item/trainmodel/ycm/E24_Head"},
     {"predicate": {"custom_model_data": 1015}, "model": "item/trainmodel/entetsu/S702_end"},
     {"predicate": {"custom_model_data": 1016}, "model": "item/trainmodel/entetsu/S702_end_alt"},
     {"predicate": {"custom_model_data": 1017}, "model": "item/trainmodel/entetsu/S702_mid"},
@@ -15,7 +28,22 @@
     {"predicate": {"custom_model_data": 1020}, "model": "item/trainmodel/entetsu/S701_head"},
     {"predicate": {"custom_model_data": 1021}, "model": "item/trainmodel/entetsu/S701_mid_alt"},
     {"predicate": {"custom_model_data": 1022}, "model": "item/trainmodel/entetsu/S701_end"},
-    {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/c27_front_cab_door"},
-    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/c27_front_escape_door"}
+    {"predicate": {"custom_model_data": 1023}, "model": "item/trainmodel/lipan/L500_DM_B"},
+    {"predicate": {"custom_model_data": 1024}, "model": "item/trainmodel/lipan/L500_DM_F"},
+    {"predicate": {"custom_model_data": 1025}, "model": "item/trainmodel/lipan/L500_DM_M"},
+    {"predicate": {"custom_model_data": 1026}, "model": "item/trainmodel/entetsu/C307_end"},
+    {"predicate": {"custom_model_data": 1027}, "model": "item/trainmodel/entetsu/C307_mid"},
+    {"predicate": {"custom_model_data": 1028}, "model": "item/trainmodel/entetsu/C307_head"},
+    {"predicate": {"custom_model_data": 1029}, "model": "item/trainmodel/entetsu/C307_connector"},
+    {"predicate": {"custom_model_data": 1030}, "model": "item/trainmodel/misc/C27_front_cab_door"},
+    {"predicate": {"custom_model_data": 1031}, "model": "item/trainmodel/misc/C27_front_escape_door"},
+    {"predicate": {"custom_model_data": 1032}, "model": "item/busmodel/kt-bus/ktbus"},
+    {"predicate": {"custom_model_data": 1033}, "model": "item/busmodel/kt-bus/ktbus_front_door"},
+    {"predicate": {"custom_model_data": 1034}, "model": "item/busmodel/kt-bus/ktbus_center_door_a"},
+    {"predicate": {"custom_model_data": 1035}, "model": "item/busmodel/kt-bus/ktbus_center_door_b"},
+    {"predicate": {"custom_model_data": 1036}, "model": "item/busmodel/kt-bus/ktbus_rht"},
+    {"predicate": {"custom_model_data": 1037}, "model": "item/busmodel/kt-bus/ktbus_front_door_rht"},
+    {"predicate": {"custom_model_data": 1038}, "model": "item/busmodel/kt-bus/ktbus_center_door_a_rht"},
+    {"predicate": {"custom_model_data": 1039}, "model": "item/busmodel/kt-bus/ktbus_center_door_b_rht"}
   ]
 }
