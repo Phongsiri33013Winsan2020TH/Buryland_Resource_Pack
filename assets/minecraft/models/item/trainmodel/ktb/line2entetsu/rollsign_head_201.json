@@ -1,0 +1,46 @@
+{
+	"credit": "Made by Mike Shafter",
+	"textures": {
+		"2": "block/lime_concrete",
+		"3": "block/ktb/line2entetsu/1",
+		"particle": "block/black_stained_glass"
+	},
+	"elements": [
+		{
+			"from": [2, 24, -6.25],
+			"to": [14, 27, -5.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, -7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [3, 3, 13, 13], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 10, 10],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		0
+	]
+}
