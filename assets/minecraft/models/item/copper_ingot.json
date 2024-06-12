@@ -30,7 +30,11 @@
     {"predicate": {"custom_model_data": 200}, "model": "item/cards/turtle_nbm"},
     {"predicate": {"custom_model_data": 201}, "model": "item/cards/turtle_mec"},
     {"predicate": {"custom_model_data": 202}, "model": "item/cards/turtle_shinchan"},
-    {"predicate": {"custom_model_data": 203}, "model": "item/cards/turtle_doraemon"}
+    {"predicate": {"custom_model_data": 203}, "model": "item/cards/turtle_doraemon"},
+
+    {
+      "predicate": {"custom_model_data": 301}, "model": "item/cards/new_tiride_emv"
+    }
 
   ]
 }
