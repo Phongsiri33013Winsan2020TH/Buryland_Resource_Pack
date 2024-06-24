@@ -574,6 +574,196 @@
 			"atos/wsw"
 		]
 	},
+	"bus.b1d10next": {
+		"sounds": [
+			"bus/b1d10next"
+		]
+	},
+	"bus.b1d10this": {
+		"sounds": [
+			"bus/b1d10this"
+		]
+	},
+	"bus.b1d11next": {
+		"sounds": [
+			"bus/b1d11next"
+		]
+	},
+	"bus.b1d11this": {
+		"sounds": [
+			"bus/b1d11this"
+		]
+	},
+	"bus.b1d1next": {
+		"sounds": [
+			"bus/b1d1next"
+		]
+	},
+	"bus.b1d1this": {
+		"sounds": [
+			"bus/b1d1this"
+		]
+	},
+	"bus.b1d2next": {
+		"sounds": [
+			"bus/b1d2next"
+		]
+	},
+	"bus.b1d2this": {
+		"sounds": [
+			"bus/b1d2this"
+		]
+	},
+	"bus.b1d3next": {
+		"sounds": [
+			"bus/b1d3next"
+		]
+	},
+	"bus.b1d3this": {
+		"sounds": [
+			"bus/b1d3this"
+		]
+	},
+	"bus.b1d4next": {
+		"sounds": [
+			"bus/b1d4next"
+		]
+	},
+	"bus.b1d4this": {
+		"sounds": [
+			"bus/b1d4this"
+		]
+	},
+	"bus.b1d5next": {
+		"sounds": [
+			"bus/b1d5next"
+		]
+	},
+	"bus.b1d5this": {
+		"sounds": [
+			"bus/b1d5this"
+		]
+	},
+	"bus.b1d6next": {
+		"sounds": [
+			"bus/b1d6next"
+		]
+	},
+	"bus.b1d6this": {
+		"sounds": [
+			"bus/b1d6this"
+		]
+	},
+	"bus.b1d7next": {
+		"sounds": [
+			"bus/b1d7next"
+		]
+	},
+	"bus.b1d7this": {
+		"sounds": [
+			"bus/b1d7this"
+		]
+	},
+	"bus.b1d8next": {
+		"sounds": [
+			"bus/b1d8next"
+		]
+	},
+	"bus.b1d8this": {
+		"sounds": [
+			"bus/b1d8this"
+		]
+	},
+	"bus.b1d9next": {
+		"sounds": [
+			"bus/b1d9next"
+		]
+	},
+	"bus.b1d9this": {
+		"sounds": [
+			"bus/b1d9this"
+		]
+	},
+	"bus.b1u2next": {
+		"sounds": [
+			"bus/b1u2next"
+		]
+	},
+	"bus.b1u2this": {
+		"sounds": [
+			"bus/b1u2this"
+		]
+	},
+	"bus.b1u3next": {
+		"sounds": [
+			"bus/b1u3next"
+		]
+	},
+	"bus.b1u3this": {
+		"sounds": [
+			"bus/b1u3this"
+		]
+	},
+	"bus.b1u4next": {
+		"sounds": [
+			"bus/b1u4next"
+		]
+	},
+	"bus.b1u4this": {
+		"sounds": [
+			"bus/b1u4this"
+		]
+	},
+	"bus.b1u5next": {
+		"sounds": [
+			"bus/b1u5next"
+		]
+	},
+	"bus.b1u5this": {
+		"sounds": [
+			"bus/b1u5this"
+		]
+	},
+	"bus.b1u6next": {
+		"sounds": [
+			"bus/b1u6next"
+		]
+	},
+	"bus.b1u6this": {
+		"sounds": [
+			"bus/b1u6this"
+		]
+	},
+	"bus.b1u7next": {
+		"sounds": [
+			"bus/b1u7next"
+		]
+	},
+	"bus.b1u7this": {
+		"sounds": [
+			"bus/b1u7this"
+		]
+	},
+	"bus.b1u8next": {
+		"sounds": [
+			"bus/b1u8next"
+		]
+	},
+	"bus.b1u8this": {
+		"sounds": [
+			"bus/b1u8this"
+		]
+	},
+	"bus.b1u9next": {
+		"sounds": [
+			"bus/b1u9next"
+		]
+	},
+	"bus.b1u9this": {
+		"sounds": [
+			"bus/b1u9this"
+		]
+	},
 	"bus6-1r.buriplaza": {
 		"sounds": [
 			"bus6-1r/buriplaza"
